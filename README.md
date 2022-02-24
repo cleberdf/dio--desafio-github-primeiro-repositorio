@@ -1,5 +1,5 @@
 #  DESAFIO DE PROJETO SOBRE GIT/GITHUB DA DIO
-Repo criado para  desafio de projet
+Repositorio criado para desafio de Projeto
 
 ## links uteis
 [sintaxe basica markdawn](https://www.markdownguide.org/basic-syntax/) 
