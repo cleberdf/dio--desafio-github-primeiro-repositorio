@@ -1,5 +1,5 @@
-# dio--desafio-github-primeiro-repositorio da dio
-repositório criado para o desafio de  projeto
+#  DESAFIO DE PROJETO SOBRE GIT/GITHUB DA DIO
+Repo criado para  desafio de projet
 
 ## links uteis
 [sintaxe basica markdawn](https://www.markdownguide.org/basic-syntax/) 
